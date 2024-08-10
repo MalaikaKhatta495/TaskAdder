@@ -4,7 +4,7 @@ body {
     background-position: center; 
     background-repeat: no-repeat; 
     background-attachment: fixed; 
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 .nav{
 
@@ -16,33 +16,33 @@ body {
 #name{
     margin-left: -75px;
     font-size: 30px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 #home{
     margin-left: 400px;
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 #home1{
     text-decoration: none;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 #cont1{
     text-decoration: none;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 #butt1{
     text-decoration: none;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 #cont{
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 
 }
 #btn{
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
     border-radius: 40px;
     cursor: pointer;
     padding: 4px 6px;
@@ -63,7 +63,7 @@ body {
     display: flex;
     justify-content: center;
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
    
 }
 .btn2{
@@ -74,7 +74,7 @@ font-size: 20px;
 margin-left: 527px;
 margin-top: 6px;
 border-radius: 40px;
-color: rgb(59, 45, 9);
+color: rgb(0, 0, 0);
 background-color: rgb(141, 170, 88);
 }
 
@@ -83,18 +83,28 @@ background-color: rgb(141, 170, 88);
     justify-content: space-around;
     
 }
+.us{
+    display :flex ;
+    flex-direction: column;
+    padding: 30px 0px;
+
+}
+.about{
+    text-decoration: none;
+    color: black;
+}
 .malaika{
 
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 .us{
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 .link{
     font-size: 20px;
-    color: rgb(59, 45, 9);
+    color: rgb(0, 0, 0);
 }
 .bottom-bar{
     display: flex;
